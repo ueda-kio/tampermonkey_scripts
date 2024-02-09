@@ -2,7 +2,7 @@
 // @name         日付順に自動ソート@調整さん
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-08
-// @description  try to take over the world!
+// @description  日付クリック時に自動でソートして入力してくれます。
 // @author       KiO
 // @match        https://chouseisan.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chouseisan.com
